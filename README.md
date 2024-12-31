@@ -23,7 +23,7 @@
    git clone https://github.com/august-cyber/python-snake-game.git
 4. Перейдите в папку проекта:
    ```bash
-   cd python-snake-game
+   cd python-snake-game-main
 5. Запустите игру:
    ```bash
    python main.py
