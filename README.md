@@ -26,7 +26,7 @@
    cd python-snake-game
 5. Запустите игру:
    ```bash
-   python snake_game.py
+   python main.py
 
 ## Автор: august-cyber
 ## Этот проект создан для портфолио и изучения основ разработки игр на Python.
