@@ -17,9 +17,13 @@
 1. Убедитесь, что у вас установлен Python 3.x.
 2. Установите библиотеку `pygame`, если она ещё не установлена:
    ```bash
-    pip install pygame
-
-## Клонируйте репозиторий:
-    ```bash
-    git clone https://github.com/august-cyber/python-snake-game.git
-
+   pip install pygame
+3. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/august-cyber/python-snake-game.git
+4. Перейдите в папку проекта:
+   ```bash
+   cd python-snake-game
+5. Запустите игру:
+   ```bash
+   python snake_game.py
